@@ -9,14 +9,14 @@ const Testimonials = () => {
       role: 'Bride',
       rating: 5,
       content: 'The bridal makeup team was absolutely incredible! They made me feel like a princess on my wedding day.',
-      image: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+      image: 'https://images.unsplash.com/photo-1546961329-78bef0414d7c?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     },
     {
       name: 'Maya Rodriguez',
       role: 'Regular Client',
       rating: 5,
       content: 'Best skincare treatments I\'ve ever had. My skin has never looked better!',
-      image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w-800&q=80'
+      image: ' https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w-800&q=80'
     },
     {
       name: 'Emma Chen',

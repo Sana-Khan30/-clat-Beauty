@@ -94,7 +94,7 @@ const Skincare = () => {
               <img
                 src="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
                 alt="Skincare Treatment"
-                className="w-full h-auto rounded-2xl"
+                className="w-full h-[600px] rounded-2xl"
               />
               <div className="absolute inset-0 bg-linear-to-t from-gray-900 via-transparent to-transparent" />
               

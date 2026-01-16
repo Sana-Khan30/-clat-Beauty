@@ -40,12 +40,12 @@ const Hero = () => {
 
       {/* Content */}
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
-        <div className="inline-flex items-center space-x-2 mb-6 px-4 py-2 bg-linear-to-r from-rose-500/10 to-purple-500/10 rounded-full border border-rose-500/20">
+        <div className="inline-flex items-center space-x-2 px-4 py-2 bg-linear-to-r from-rose-500/10 to-purple-500/10 rounded-full border border-rose-500/20">
           <Sparkles className="w-4 h-4 text-rose-300" />
           <span className="text-sm text-rose-300">Premium Beauty Studio</span>
         </div>
 
-        <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+        <h1 className="text-5xl md:text-7xl font-bold mb-5 leading-tight">
           <span className="bg-linear-to-r from-rose-100 via-purple-100 to-pink-100 bg-clip-text text-transparent">
             Enhancing Beauty
           </span>
@@ -55,12 +55,12 @@ const Hero = () => {
           </span>
         </h1>
 
-        <p className="text-xl text-gray-300 mb-10 max-w-2xl mx-auto leading-relaxed">
+        <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
           Experience luxury beauty transformations curated by our expert artists. 
           From bridal glamour to everyday elegance, we bring your vision to life.
         </p>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+        <div className="flex flex-col sm:flex-row gap-3 justify-center">
           <button className="group relative px-8 py-4 bg-linear-to-r from-rose-600 to-purple-600 rounded-full font-semibold text-white hover:from-rose-500 hover:to-purple-500 transition-all duration-300 transform hover:scale-105 hover:shadow-[0_0_30px_rgba(225,29,72,0.4)]">
             <span className="relative z-10">Book Appointment</span>
             <div className="absolute inset-0 bg-linear-to-r from-rose-600 to-purple-600 rounded-full blur opacity-50 group-hover:opacity-70 transition-opacity" />
